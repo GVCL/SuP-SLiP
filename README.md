@@ -11,3 +11,6 @@ Annotation is a crucial component of point cloud analysis. However, due to the s
 
 ## Code
 🌟 We will be releasing the code shortly for this project through this repo. Thank you for your interest!
+
+## Contact
+Please feel free to reach out, either by [raising an issue](https://github.com/GVCL/SuP-SLiP/issues) or by emailing [jnair@iiitb.ac.in](mailto:jnair@iiitb.ac.in).
