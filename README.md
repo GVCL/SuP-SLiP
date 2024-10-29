@@ -9,6 +9,9 @@ Annotation is a crucial component of point cloud analysis. However, due to the s
 
 ![architecture diagram](./static/fig01.png)
 
+## Data
+Please refer to [this file](./data/README.md) for more information about downloading the data used for our analysis.
+
 ## Code
 🌟 We will be releasing the code shortly for this project through this repo. Thank you for your interest!
 
