@@ -31,7 +31,7 @@ pandas
 ```
 
 ## Code
-🌟 We will be releasing the code shortly for this project through this repo. Thank you for your interest!
+Please refer to [this file](./code/README.md) for more information about the code used in our analysis. 
 
 
 ## Contact
