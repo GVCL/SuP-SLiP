@@ -9,14 +9,14 @@ Annotation is a crucial component of point cloud analysis. However, due to the s
 
 ![architecture diagram](./static/fig01.png)
 
+## Explainer video 
+
+[![YouTube video](http://i.ytimg.com/vi/KVzLXlt8IgA/hqdefault.jpg)](https://www.youtube.com/watch?v=KVzLXlt8IgA)
+
 ## Demo
 We release a demo for our Candidate point recommendation module on [Streamlit](https://sup-slpc-demo.streamlit.app/).
 
 ![demo screenshot](./static/demo_screenshot.png)
-
-## Explainer video 
-
-[![YouTube video](http://i.ytimg.com/vi/KVzLXlt8IgA/hqdefault.jpg)](https://www.youtube.com/watch?v=KVzLXlt8IgA)
 
 ## Data
 Please refer to [this file](./data/README.md) for more information about downloading the data used for our analysis.
