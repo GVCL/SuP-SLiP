@@ -17,6 +17,19 @@ We release a demo for our Candidate point recommendation module on [Streamlit](h
 ## Data
 Please refer to [this file](./data/README.md) for more information about downloading the data used for our analysis.
 
+## Installation
+To run our experiments, the dependencies listed below must be installed. We recommend using [Kaggle](https://www.kaggle.com/), as all of our experimentation was done on this platform.
+
+```
+numpy
+scipy
+open3d
+open3d-ml
+torch
+trimesh
+pandas
+```
+
 ## Code
 🌟 We will be releasing the code shortly for this project through this repo. Thank you for your interest!
 
