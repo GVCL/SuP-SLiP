@@ -14,6 +14,8 @@ We release a demo for our Candidate point recommendation module on [Streamlit](h
 
 ![demo screenshot](./static/demo_screenshot.png)
 
+## Explainer video 
+
 [![YouTube video](http://i.ytimg.com/vi/KVzLXlt8IgA/hqdefault.jpg)](https://www.youtube.com/watch?v=KVzLXlt8IgA)
 
 ## Data
