@@ -9,11 +9,17 @@ Annotation is a crucial component of point cloud analysis. However, due to the s
 
 ![architecture diagram](./static/fig01.png)
 
+## Demo
+We release a demo for our Candidate point recommendation module on [Streamlit](https://sup-slpc-demo.streamlit.app/).
+
+![demo screenshot](./static/demo_screenshot.png)
+
 ## Data
 Please refer to [this file](./data/README.md) for more information about downloading the data used for our analysis.
 
 ## Code
 🌟 We will be releasing the code shortly for this project through this repo. Thank you for your interest!
+
 
 ## Contact
 Please feel free to reach out, either by [raising an issue](https://github.com/GVCL/SuP-SLiP/issues) or by emailing [jnair@iiitb.ac.in](mailto:jnair@iiitb.ac.in).
