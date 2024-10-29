@@ -1,4 +1,4 @@
-# SuP-SLiP
+# SuP-SLiP: Subsampled Processing of Large-scale Static LIDAR Point Clouds
 
 This repository contains materials related to our [GeoSearch'24](https://geosearch-workshop.github.io/geosearch2024/) publication, [SuP-SLiP: Subsampled Processing of Large-scale Static LIDAR Point Clouds](https://dl.acm.org/doi/10.1145/3681769.3698585).  
 
@@ -13,6 +13,8 @@ Annotation is a crucial component of point cloud analysis. However, due to the s
 We release a demo for our Candidate point recommendation module on [Streamlit](https://sup-slpc-demo.streamlit.app/).
 
 ![demo screenshot](./static/demo_screenshot.png)
+
+[![YouTube video](http://i.ytimg.com/vi/KVzLXlt8IgA/hqdefault.jpg)](https://www.youtube.com/watch?v=KVzLXlt8IgA)
 
 ## Data
 Please refer to [this file](./data/README.md) for more information about downloading the data used for our analysis.
